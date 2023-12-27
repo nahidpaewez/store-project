@@ -1,3 +1,3 @@
 # store-project
-This is my firstt Git Repository.
+This is my first Git Repository.
 Author-  Nahid parwez
